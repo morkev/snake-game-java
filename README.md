@@ -1,5 +1,5 @@
 # snake-game-java
-Recreation of Gremlin's 1976 videogame "Snake."
+Recreation of Gremlin's 1976 video game "Snake."
 
 The player controls a square – as it moves forward, it leaves a trail behind, resembling a moving snake. 
 - Snake gets longer as it consumes the object with randomized position. 
